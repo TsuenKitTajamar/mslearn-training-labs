@@ -1,4 +1,4 @@
-Repositorio con laboratorios de [Microsfot Learn](https://learn.microsoft.com/en-us/training/browse/)
+Repositorio con laboratorios de [Microsoft Learn](https://learn.microsoft.com/en-us/training/browse/)
 
 1. Laboratorio - Explorar y analizar datos con Python
 https://learn.microsoft.com/en-us/training/modules/explore-analyze-data-with-python/
@@ -23,6 +23,9 @@ https://learn.microsoft.com/en-us/training/modules/optimize-model-performance-ro
 
 8. Laboratorio - Train and evaluate deep learning models
 https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-models/
+
+9. Laboratorio - Computer vision with TensorFlow
+https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/
 
 
 
