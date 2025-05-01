@@ -27,6 +27,9 @@ https://learn.microsoft.com/en-us/training/modules/train-evaluate-deep-learn-mod
 9. Laboratorio - Computer vision with TensorFlow
 https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-tensorflow/
 
+10. Laboratorio - Audio classification with TensorFlow
+https://learn.microsoft.com/en-us/training/modules/intro-audio-classification-tensorflow/
+
 
 
 
